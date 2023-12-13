@@ -547,7 +547,7 @@ main #bio .infoContainer .stainInfo img {
     padding: 0px 10px 0px 10px;
   }
   main #bio .infoContainer .info .perfil {
-    background-image: url("../../assets/images/perfil.jpg");
+    background-image: url("./assets/images/perfil.jpg");
     width: 90%;
     height: 200px;
     background-size: cover;
