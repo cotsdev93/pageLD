@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Britania";
-  src: url(../../assets/fonts/Britania_Ligatura.ttf);
+  src: url(./assets/fonts/Britania_Ligatura.ttf);
 }
 * {
   text-decoration: none;
